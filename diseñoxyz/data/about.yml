@@ -1,0 +1,41 @@
+# work process
+work_process:
+  enable : true
+  title : "Proceso de Trabajo"
+  item:
+  - title : "Investigación y Planeación"
+    icon : "images/icons/plan.png"
+    content : "Delemitando correctamente las restricciones de un proyecto es como logramos obtener la mejor solucion."
+    
+  - title : "Diseño y desarrollo"
+    icon : "images/icons/design.png"
+    content : "Uno de mis procesos creativos e ingenieriles preferidos, para mi es aqui donde realmente se logra el progreso."
+    
+  - title : "Entrega a tiempo"
+    icon : "images/icons/print.png"
+    content : "Enfrentar la adversidad con prudencia y cerrar los proyectos de forma profesional siempre es muy gratificante."
+
+
+# team
+team:
+  enable: true
+  title : "Mi Equipo"
+  team_member:
+    - title : "Ing. Arturo Lopez"
+      image : "images/team/member-1.png"
+      designation : "Programador"
+      
+    - title : "Lic. Mario Rodriguez"
+      image : "images/team/member-2.png"
+      designation : "Analista financiero"
+      
+    - title : "Ing. Mario Rodrigues"
+      image : "images/team/member-3.png"
+      designation : "Integrador"
+
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  title : "My Clients"
+  # clients logo comes from 'data/homepage.yml' file
