@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
-description: "This is meta description."
+title: "Portafolio"
+description: "Here you can find my portfolio."
 draft: false
 ---

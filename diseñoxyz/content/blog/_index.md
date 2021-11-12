@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-description: "This is meta description."
+description: "Here you can find my Blog."
 draft: false
 ---
