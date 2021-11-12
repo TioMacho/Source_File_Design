@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hola, colega! <br> Soy Ivan, <br> Ingeniero Mecánico."
+  title : "Hola, colega! <br> Soy Ivan Lopez, <br> Ingeniero Mecánico."
 
 # about
 about:
@@ -8,7 +8,7 @@ about:
   content : "Mi pasión es transformar problemas en soluciones. Como la mayoría de los ingenieros mecánicos del siglo XXI mis intereses y habilidades no están limitados a mis estudios profesionales. Por ello en esta pagina encontraras algunas entradas sobre mis proyectos mas recientes con temas diversos desde diseño hasta filantropía."
   button:
     enable : true
-    label : "Conóceme mas..."
+    label : "Conóce mas..."
     URL : "about"
 
 # skill

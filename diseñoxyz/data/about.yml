@@ -5,11 +5,11 @@ work_process:
   item:
   - title : "Investigación y Planeación"
     icon : "images/icons/plan.png"
-    content : "Delemitando correctamente las restricciones de un proyecto es como logramos obtener la mejor solucion."
+    content : "Delimitando correctamente las restricciones de un proyecto es como logramos obtener la mejor solución."
     
   - title : "Diseño y desarrollo"
     icon : "images/icons/design.png"
-    content : "Uno de mis procesos creativos e ingenieriles preferidos, para mi es aqui donde realmente se logra el progreso."
+    content : "Uno de mis procesos creativos e ingenieriles preferidos, para mi es aquí donde realmente se logra el progreso."
     
   - title : "Entrega a tiempo"
     icon : "images/icons/print.png"
