@@ -1,14 +1,14 @@
 # banner
 banner:
-  title : "Hola, colega! <br> Mi nombre es Ivan <br> Ingeniero mecánico."
+  title : "Hola, colega! <br> Soy Ivan, <br> Ingeniero Mecánico."
 
 # about
 about:
   enable : true
-  content : "Me considero mas un alquimista que un ingeniero. Mi pasion es transformar problemas en soluciones. En esta pagina encontraras algunas entradas sobre mis proyectos mas recientes. <br> Como la mayoria de los ingenieros mecanicos del siglo XXI mis intereses y habilidades no estan limitados a mis estudios profesionales. Por ello aqui encontraras temas diversos desde diseño hasta filantropia."
+  content : "Mi pasión es transformar problemas en soluciones. Como la mayoría de los ingenieros mecánicos del siglo XXI mis intereses y habilidades no están limitados a mis estudios profesionales. Por ello en esta pagina encontraras algunas entradas sobre mis proyectos mas recientes con temas diversos desde diseño hasta filantropía."
   button:
     enable : true
-    label : "Conoceme mas..."
+    label : "Conóceme mas..."
     URL : "about"
 
 # skill
@@ -20,7 +20,7 @@ skill:
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Analisis proyectos de inversion"
+    - title : "Análisis proyectos de inversión."
       progress : "60%"
       color : "#9473e6"
       
@@ -76,21 +76,21 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Servicios"
   item:
     - title : "Generacion de Prototipos"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Prototipos físicos o digitales, usualmente utilizando herramientas como la impresión 3D, maquinado convencional y corte láser."
       highlighted : false
 
-    - title : "Diseño Mecanico"
+    - title : "Diseño Mecánico"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Utilizando *SoliWorks* como herramienta principal genero documentación de piezas o ensambles listos para manufactura."
       highlighted : true
 
     - title : "Optimizacion de Procesos"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "La filosofía y herramientas detrás de *Lean Manufacturing* es medular para lograr se competitivo en el mercado."
       highlighted : false
 
 # portfolio
