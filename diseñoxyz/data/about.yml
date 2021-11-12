@@ -21,16 +21,16 @@ team:
   enable: true
   title : "Mi Equipo"
   team_member:
-    - title : "Ing. Arturo Lopez"
-      image : "images/team/member-1.png"
+    - title : "Ing. Huascar Lopez"
+      image : "images/team/arturolopez.jpg"
       designation : "Programador"
       
     - title : "Lic. Mario Rodriguez"
-      image : "marioalberto.jpg"
+      image : "images/team/marioalberto.jpg"
       designation : "Analista financiero"
       
-    - title : "Ing. Mario Rodrigues"
-      image : "images/team/member-3.png"
+    - title : "Ing. Brayan Rodriguez"
+      image : "images/team/brayanmario.jpg"
       designation : "Integrador"
 
 

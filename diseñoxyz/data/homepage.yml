@@ -95,7 +95,7 @@ service:
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portafolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
@@ -156,6 +156,6 @@ portfolio:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
