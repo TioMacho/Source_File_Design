@@ -2,7 +2,7 @@
 baseURL = "diseño.xyz/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = ["github.com/themefisher/kross-hugo/"]
 title = "Diseño XYZ"
 
 # css plugins
@@ -111,3 +111,7 @@ URL = "https://www.instagram.com/behemoth.lev/"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "https://www.instagram.com/behemoth.lev/"
+
+[module]
+[[module.imports]]
+    path = 'github.com/themefisher/kross-hugo/'
